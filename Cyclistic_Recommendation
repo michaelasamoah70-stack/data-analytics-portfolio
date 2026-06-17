@@ -1,1 +1,62 @@
+Cyclistic Bike-Share
+Data-Backed Recommendations
+ 
+
+Prepared by: Michael Asamoah
+Date: June 2026
+Dataset: Cyclistic Trip Data — December 2025 to January 2026
+Records Analysed: 124,475 cleaned trip records
+Business Task: How do annual members and casual riders use Cyclistic bikes differently?
+
+Summary of Key Findings
+The following findings from the analysis inform the three recommendations below.
+
+Finding	Key Insight
+Ride Frequency	Members account for 82.61% of all rides — casual riders only 17.39%
+Ride Length	Casual riders take longer trips on average — 12.99 mins vs 11.19 mins for members
+Day of Week	Members ride consistently all week — casual riders take longest rides on weekends
+Bike Type	Casual riders prefer electric bikes more strongly — 73.10% vs 63.10% for members
+Time of Day	Members show commuter peaks at 8AM and 5PM — casual riders peak gradually in the afternoon
+
+ 
+
+
+
+
+
+
+
+
+
+Recommendation 1
+Title
+Introduce a "Weekend Warrior" Membership Tier
+Data Insight
+Members account for 82.61% of rides — casual riders only 17.39%
+Recommended Action	
+Launch a discounted weekend-only membership targeting casual riders who log more than 3 rides a month. This creates a low-friction entry point, steadily converting frequent casual users into recurring subscription revenue.
+
+Recommendation 2
+
+Title	
+Target Leisure Locations
+Data Insight	
+Casual riders peak in the afternoon and ride longest on weekends
+Recommended Action	
+Focus marketing campaigns and on-the-ground promotions directly at recreational parks, tourist spots, and waterfront leisure areas. Targeting them at the exact moment they are looking for leisure activities will yield a much higher conversion rate.
+
+Recommendation 3
+
+Title	
+Electric Bike Membership Incentive
+Data Insight	
+ Casual riders prefer electric bikes 73.10% of the time
+Recommended Action	
+Position the Cyclistic membership not just as a ride-share, but as a superior alternative to e-bike ownership. Emphasize the benefits of a premium, fully maintained fleet without the heavy upfront costs, storage issues, or maintenance fees of owning a personal electric bike.
+
+ 
+Limitations & Notes
+•	Dataset covers only December 2025 and January 2026 — findings reflect winter riding behaviour and may not represent year-round patterns.
+•	24,553 rows with missing station names were removed — this may slightly underrepresent electric bike usage.
+•	Personally identifiable information was removed — rider-level tracking across trips is not possible.
 
