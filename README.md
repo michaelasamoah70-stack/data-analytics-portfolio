@@ -37,7 +37,7 @@ annual members?
 5. Members ride consistently all week — casual riders take longest rides on weekends
 
 ### Project Files
-- 📓 [Jupyter Notebook](./Case%20Study%20for%20Google%20analytics.ipynb)
+- 📓 - 📓 [Jupyter Notebook](./cyclistic_case_study.ipynb)
 - 📊 [Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeShareAnalysis-MichaelPokuAsamoah/CyclisticBike-ShareAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
